@@ -67,3 +67,4 @@ static void Analyze()
     Console.WriteLine(Word2.Length);
 }
 Analyze();
+//checked
